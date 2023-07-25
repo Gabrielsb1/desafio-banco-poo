@@ -1,3 +1,10 @@
+package application;
+
+import bancodigital.entities.Cliente;
+import bancodigital.entities.Conta;
+import bancodigital.entities.ContaCorrente;
+import bancodigital.entities.ContaPoupanca;
+
 public class Main {
 
     public static void main(String[] args) {
